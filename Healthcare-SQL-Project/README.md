@@ -16,7 +16,6 @@ Healthcare organizations need data insights to better understand appointment att
 - Data Cleaning
 - Data Analysis
 - Aggregations
-- Joins
 - Reporting
 
 ## Example Business Questions
